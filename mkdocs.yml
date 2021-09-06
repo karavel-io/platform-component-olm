@@ -1,4 +1,4 @@
-site_name: Operator Lifecycle Manager Component
+site_name: components/operator-lifecycle-manager
 site_url: https://docs.karavel.io/components/olm
 repo_name: projectkaravel/platform-component-olm
 repo_url: https://github.com/projectkaravel/platform-component-olm

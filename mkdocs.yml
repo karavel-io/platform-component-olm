@@ -1,7 +1,7 @@
 site_name: components/operator-lifecycle-manager
 site_url: https://docs.karavel.io/components/olm
-repo_name: projectkaravel/platform-component-olm
-repo_url: https://github.com/projectkaravel/platform-component-olm
+repo_name: karavel-io/platform-component-olm
+repo_url: https://github.com/karavel-io/platform-component-olm
 copyright: © 2021 The Karavel Project | Documentation distributed under CC BY SA 4.0
 strict: false
 theme:

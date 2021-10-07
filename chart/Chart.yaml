@@ -3,7 +3,7 @@ name: olm
 description: Operator Lifecycle Manager component for Karavel
 type: application
 version: 0.1.0-SNAPSHOT
-appVersion: 0.17.0
+appVersion: 0.19.1
 maintainers:
   - name: MatteoJoliveau
     email: matteo.joliveau@mikamai.com

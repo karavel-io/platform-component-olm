@@ -28,7 +28,7 @@ spec:
           args:
             - '-namespace'
             - olm
-            - -configmapServerImage=quay.io/operator-framework/configmap-operator-registry:latest
+            - '-configmapServerImage=quay.io/operator-framework/configmap-operator-registry:{{ .Values.catalog.version }}'
             - -util-image
             -  quay.io/operator-framework/olm:v{{ .Chart.AppVersion }}
           image: quay.io/operator-framework/olm:v{{ .Chart.AppVersion }}

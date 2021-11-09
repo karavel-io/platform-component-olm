@@ -5,4 +5,4 @@ grafana:
   enable: false
 
 catalog:
-  version: v1.16.1
+  version: latest

@@ -1,3 +1,5 @@
+namespace: olm
+
 prometheus:
   enable: false
 
